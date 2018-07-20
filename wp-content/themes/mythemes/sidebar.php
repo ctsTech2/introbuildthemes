@@ -1,0 +1,1 @@
+<div id="site-sidebar">This is my side bar</div>  
